@@ -1,7 +1,7 @@
 # MB_identity
 
 -- Credits --
-CuiCharacter #PainedPsyche
+CuiCharacter @PainedPsyche
 
 -- Prewiew --
 
